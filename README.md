@@ -12,6 +12,9 @@
 ### Everforest
 ![Everforest](screenshots/everforest.png)
 
+### Solarized
+![Solarized](screenshots/solarized.png)
+
 ## Installing themes
 
 1. Clone this repository and change to its directory:
