@@ -25,10 +25,10 @@ $ cd wofi-themes-collection
 
 2. If you don't have the directories needed for the install create them with:
 ```
-$ mkdir -p ~/.local/share/wofi/themes/
+$ mkdir -p ~/.config/wofi
 ```
 
-3. Copy your desired theme to `~/.local/share/woi/themes` folder:
+3. Copy your desired theme to `~/.config/wofi` folder:
 ```
 $ cp themes/<your-selected-theme> ~/.config/wofi/style.css
 ```
